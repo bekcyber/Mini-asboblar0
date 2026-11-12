@@ -43,7 +43,7 @@ from telegram.ext import (
 
 # ============================== SOZLAMALAR ==============================
 # BotFather bergan tokenni qo'shtirnoq ichiga qo'ying. Tokenni hech kimga bermang!
-TOKEN = os.environ.get("BOT_TOKEN") or "BU_YERGA_TOKENNI_QOYING"
+TOKEN = os.environ.get("BOT_TOKEN") or "9171571604:AAE-qsEgKdAdr8HpB1s3WqRen3cM1J9tX7k"
 
 # Mini App sahifasining manzili (https:// bilan boshlanadi).
 # Hozircha bo'sh qoldirsangiz ham bo'ladi: bot chatda to'liq ishlaydi,
